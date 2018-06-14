@@ -88,3 +88,5 @@ music-player.cache
 music-player.runs
 music-player.sim
 !*.md
+!*.py
+!*.odt
